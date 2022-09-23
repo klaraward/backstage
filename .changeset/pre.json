@@ -175,5 +175,29 @@
     "@backstage/plugin-vault-backend": "0.2.2",
     "@backstage/plugin-xcmetrics": "0.2.29"
   },
-  "changesets": []
+  "changesets": [
+    "breezy-pots-worry",
+    "bright-rules-shout",
+    "clean-camels-sneeze",
+    "curvy-kiwis-fold",
+    "kind-penguins-report",
+    "lazy-beds-pull",
+    "lazy-fireants-check",
+    "little-roses-rule",
+    "old-cobras-suffer",
+    "perfect-moose-drum",
+    "renovate-a02d90b",
+    "rich-carrots-reflect",
+    "rude-bulldogs-sleep",
+    "selfish-turkeys-exist",
+    "shaggy-books-smell",
+    "soft-falcons-love",
+    "stupid-dragons-complain",
+    "sweet-insects-camp",
+    "swift-phones-cheat",
+    "tender-drinks-drive",
+    "thick-kings-destroy",
+    "tiny-mails-bathe",
+    "wise-ligers-scream"
+  ]
 }

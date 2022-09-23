@@ -1,5 +1,28 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.7.0-next.0
+
+### Minor Changes
+
+- 694bfe2d61: Add functionality to shutdown scaffolder tasks if they are stale
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.1.2-next.0
+  - @backstage/plugin-catalog-backend@1.4.1-next.0
+  - @backstage/catalog-client@1.1.1-next.0
+  - @backstage/plugin-catalog-node@1.1.1-next.0
+  - @backstage/plugin-scaffolder-common@1.2.1-next.0
+  - @backstage/backend-common@0.15.2-next.0
+  - @backstage/backend-plugin-api@0.1.3-next.0
+  - @backstage/backend-tasks@0.3.6-next.0
+  - @backstage/config@1.0.3-next.0
+  - @backstage/errors@1.1.2-next.0
+  - @backstage/integration@1.3.2-next.0
+  - @backstage/types@1.0.0
+  - @backstage/plugin-auth-node@0.2.6-next.0
+
 ## 1.6.0
 
 ### Minor Changes

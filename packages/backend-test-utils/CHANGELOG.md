@@ -1,5 +1,17 @@
 # @backstage/backend-test-utils
 
+## 0.1.29-next.0
+
+### Patch Changes
+
+- e91e8e9c55: Increased test database max connection pool size to reduce the risk of resource exhaustion.
+- Updated dependencies
+  - @backstage/cli@0.20.0-next.0
+  - @backstage/backend-app-api@0.2.2-next.0
+  - @backstage/backend-common@0.15.2-next.0
+  - @backstage/backend-plugin-api@0.1.3-next.0
+  - @backstage/config@1.0.3-next.0
+
 ## 0.1.28
 
 ### Patch Changes
